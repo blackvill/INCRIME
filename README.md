@@ -28,7 +28,7 @@
 
 노션: https://redniche.notion.site/bf36726088f74c7c862dd2ab69b00141
 
-SSAFY 6기 공통프로젝트 부울경 1반 1등
+
 
 
 
@@ -40,6 +40,8 @@ SSAFY 6기 공통프로젝트 부울경 1반 1등
 
 
 
+
+SSAFY 6기 공통프로젝트 부울경 1반 1등
 
 
 
